@@ -1,3 +1,3 @@
-module github.com/raitonoberu/vimego
+module github.com/kuno989/vimego
 
-go 1.16
+go 1.19
