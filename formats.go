@@ -40,7 +40,6 @@ type ProgressiveFormat struct {
 	Profile int    `json:"profile,string"`
 	Width   int    `json:"width"`
 	Mime    string `json:"mime"`
-	Fps     int    `json:"fps"`
 	URL     string `json:"url"`
 	Cdn     string `json:"cdn"`
 	Quality string `json:"quality"`
